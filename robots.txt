@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://roidfr.github.io/GnD/sitemap.GnD.gz
